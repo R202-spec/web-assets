@@ -5,7 +5,9 @@
 <path id="Rectangle 114" d="M829 58.6652C829 47.0505 838.416 37.6349 850.03 37.6349H1178.88C1190.49 37.6349 1199.91 47.0505 1199.91 58.6652V244.908H829V58.6652Z" fill="#2E2E2E"/>
 <path id="Rectangle 117" d="M829 5C829 2.23858 831.239 0 834 0H1195C1197.76 0 1200 2.23858 1200 5V76H829V5Z" fill="#264653"/>
 <text id="&#194;&#163;1000" fill="white" xml:space="preserve" style="white-space: pre" font-family="Work Sans" font-size="35" font-weight="500" letter-spacing="0em"><tspan x="963.641" y="50.0225">&#xa3;1000</tspan></text>
-<rect id="Rectangle 119" x="901" y="218" width="228" height="53" rx="6" fill="#E76F51"/>
+<a href="https://buy.stripe.com/fZubJ00WX4RqeGhayQ9EI04" target="_blank" rel="noopener noreferrer">
+  <rect id="Rectangle 119" x="901" y="218" width="228" height="53" rx="6" fill="#E76F51"/>
+</a>
 <text id="Take your business to the next level" fill="white" xml:space="preserve" style="white-space: pre" font-family="Work Sans" font-size="21.8182" letter-spacing="0em"><tspan x="878.809" y="161.949">Take your business to the </tspan><tspan x="963.813" y="187.949">next level</tspan></text>
 <text id="Expansion" fill="white" xml:space="preserve" style="white-space: pre" font-family="Libre Baskerville" font-size="28.3636" font-weight="bold" letter-spacing="0em"><tspan x="935.787" y="117.564">Expansion</tspan></text>
 <g id="Pillar 3 - text">
@@ -41,14 +43,24 @@
 <text id="Booking system integration" fill="black" xml:space="preserve" style="white-space: pre" font-family="Work Sans" font-size="21.8182" letter-spacing="0em"><tspan x="901.636" y="492.222">Booking system&#10;</tspan><tspan x="901.636" y="518.222">integration</tspan></text>
 <text id="Website essentials" fill="black" xml:space="preserve" style="white-space: pre" font-family="Libre Baskerville" font-size="29.4545" font-weight="bold" letter-spacing="0em"><tspan x="859.546" y="330.355">Website essentials</tspan></text>
 </g>
-<text id="Buy now" fill="white" xml:space="preserve" style="white-space: pre" font-family="Libre Baskerville" font-size="25" font-weight="bold" letter-spacing="0em"><tspan x="957.2" y="253.25">Buy now</tspan></text>
+<a href="https://buy.stripe.com/fZubJ00WX4RqeGhayQ9EI04" target="_blank">
+  <text id="Buy now" fill="white" xml:space="preserve" style="white-space: pre" font-family="Libre Baskerville" font-size="25" font-weight="bold" letter-spacing="0em">
+    <tspan x="957.2" y="253.25">Buy now</tspan>
+  </text>
+</a>
 </g>
 <g id="Pillar 2">
 <rect id="Rectangle 103_2" x="415" y="37.5454" width="370.909" height="1282.91" rx="20.8192" fill="#F3ECE6"/>
 <path id="Rectangle 114_2" d="M415.455 53.5757C415.455 41.961 424.87 32.5454 436.485 32.5454H765.333C776.948 32.5454 786.364 41.961 786.364 53.5757V239.818H415.455V53.5757Z" fill="#2E2E2E"/>
 <text id="Increase sales and visibility" fill="white" xml:space="preserve" style="white-space: pre" font-family="Work Sans" font-size="21.8182" letter-spacing="0em"><tspan x="501.818" y="161.969">Increase sales and </tspan><tspan x="557.801" y="187.969">visibility</tspan></text>
-<rect id="Rectangle 118" x="486" y="218" width="228" height="53" rx="6" fill="#E76F51"/>
-<text id="Buy now_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Libre Baskerville" font-size="25" font-weight="bold" letter-spacing="0em"><tspan x="542.2" y="253.25">Buy now</tspan></text>
+<a href="https://buy.stripe.com/bJefZgcFFgA8eGhdL29EI03" target="_blank" rel="noopener noreferrer">
+  <rect id="Rectangle 118" x="486" y="218" width="228" height="53" rx="6" fill="#E76F51"/>
+</a>
+<a href="https://buy.stripe.com/bJefZgcFFgA8eGhdL29EI03" target="_blank" rel="noopener noreferrer">
+  <text id="Buy now_2" fill="white" xml:space="preserve" style="white-space: pre" font-family="Libre Baskerville" font-size="25" font-weight="bold" letter-spacing="0em">
+    <tspan x="542.2" y="253.25">Buy now</tspan>
+  </text>
+</a>
 <text id="Growth" fill="white" xml:space="preserve" style="white-space: pre" font-family="Libre Baskerville" font-size="28.3636" font-weight="bold" letter-spacing="0em"><tspan x="544.755" y="117.073">Growth</tspan></text>
 <g id="Pillar 2 - text">
 <text id="Marketing_2" fill="black" xml:space="preserve" style="white-space: pre" font-family="Libre Baskerville" font-size="27.2727" font-weight="bold" letter-spacing="0em"><tspan x="444.301" y="583.516">Marketing</tspan></text>
@@ -133,12 +145,23 @@
 <path id="Rectangle 114_3" d="M0 42.5454C0 39.784 2.23858 37.5454 5 37.5454H365.909C368.671 37.5454 370.909 39.784 370.909 42.5454V239.818C370.909 242.58 368.671 244.818 365.909 244.818H4.99999C2.23857 244.818 0 242.58 0 239.818V42.5454Z" fill="#2E2E2E"/>
 <path id="Rectangle 115" d="M0 5C0 2.23858 2.23858 0 5 0H366C368.761 0 371 2.23858 371 5V76H0V5Z" fill="#264653"/>
 <path id="Rectangle 117_2" d="M415 5C415 2.23858 417.239 0 420 0H781C783.761 0 786 2.23858 786 5V76H415V5Z" fill="#264653"/>
-<rect id="Rectangle 116" x="71" y="218" width="228" height="53" rx="6" fill="#E76F51"/>
+<a href="https://buy.stripe.com/8x200ifRR6Zy7dP22k9EI02" target="_blank">
+  <rect id="Rectangle 116" x="71" y="218" width="228" height="53" rx="6" fill="#E76F51"/>
+</a>
 <text id="&#194;&#163;500" fill="white" xml:space="preserve" style="white-space: pre" font-family="Work Sans" font-size="35" font-weight="500" letter-spacing="0em"><tspan x="142.311" y="49.9803">&#xa3;500 </tspan></text>
 <text id="&#194;&#163;750" fill="white" xml:space="preserve" style="white-space: pre" font-family="Work Sans" font-size="35" font-weight="500" letter-spacing="0em"><tspan x="558.832" y="49.9803">&#xa3;750</tspan></text>
 <text id="Core services to build your business" fill="white" xml:space="preserve" style="white-space: pre" font-family="Work Sans" font-size="21.8182" letter-spacing="0em"><tspan x="69.0291" y="161.949">Core services to build </tspan><tspan x="111.952" y="187.949">your business</tspan></text>
 <text id="Essentials" fill="white" xml:space="preserve" style="white-space: pre" font-family="Libre Baskerville" font-size="28.3636" font-weight="bold" letter-spacing="0em"><tspan x="112.573" y="116.473">Essentials</tspan></text>
 </g>
-<text id="Buy now_3" fill="white" xml:space="preserve" style="white-space: pre" font-family="Libre Baskerville" font-size="25" font-weight="bold" letter-spacing="0em"><tspan x="127.2" y="253.25">Buy now</tspan></text>
+<a href="https://buy.stripe.com/8x200ifRR6Zy7dP22k9EI02" target="_blank">
+  <!-- Transparent clickable rectangle -->
+  <rect x="120" y="230" width="150" height="30" fill="transparent" />
+  
+  <!-- The Buy Now text -->
+  <text id="Buy now_3" fill="white" xml:space="preserve" style="white-space: pre" 
+        font-family="Libre Baskerville" font-size="25" font-weight="bold" letter-spacing="0em">
+    <tspan x="127.2" y="253.25">Buy now</tspan>
+  </text>
+</a>
 </g>
-</svg>
+
