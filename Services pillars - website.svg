@@ -156,7 +156,6 @@
 <a href="https://buy.stripe.com/8x200ifRR6Zy7dP22k9EI02" target="_blank">
   <!-- Transparent clickable rectangle -->
   <rect x="120" y="230" width="150" height="30" fill="transparent" />
-  
   <!-- The Buy Now text -->
   <text id="Buy now_3" fill="white" xml:space="preserve" style="white-space: pre" 
         font-family="Libre Baskerville" font-size="25" font-weight="bold" letter-spacing="0em">
