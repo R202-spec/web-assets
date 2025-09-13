@@ -30,11 +30,7 @@
         fill="#fff" 
         font-family="LibreBaskerville-Regular, 'Libre Baskerville'" 
         font-size="18">
-    <tspan x="0" y="0">Boo</tspan>
-    <tspan x="37.35" y="0" letter-spacing="-.01em">k</tspan>
-    <tspan x="48.19" y="0"> </tspan>
-    <tspan x="53.35" y="0" letter-spacing="-.01em">a</tspan>
-    <tspan x="63.13" y="0" xml:space="preserve"> call</tspan>
+    <tspan x="0" y="0">Book a call</tspan>
   </text>
 </a>
 </svg>
